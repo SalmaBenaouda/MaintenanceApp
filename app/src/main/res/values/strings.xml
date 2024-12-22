@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaintenanceApp</string>
+    <string-array name="speciality_array">
+        <item>Chauffagiste</item>
+        <item>Plombier</item>
+        <item>Électricien</item>
+        <item>Menuisier</item>
+    </string-array>
+</resources>
